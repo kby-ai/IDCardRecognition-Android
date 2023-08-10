@@ -6,7 +6,23 @@
 
 # IDCardRecognition-Android
 
-> The Demo is currently under development and not yet available.
+## Try the APK
+
+### Google Play
+
+<a href="https://play.google.com/store/apps/details?id=com.kbyai.idcardrecognition" target="_blank">
+  <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
+</a>
+
+## Screenshots
+
+<p float="left">
+  <img src="https://github.com/kby-ai/IDCardRecognition-Android/assets/125717930/a3bcd830-7db3-4904-ad7c-0070b0a76faf" width=240/>
+  <img src="https://github.com/kby-ai/IDCardRecognition-Android/assets/125717930/9a753652-25b4-41ae-a1d5-b2e96c59aea8" width=240/>
+  <img src="https://github.com/kby-ai/IDCardRecognition-Android/assets/125717930/8ed4c26b-8306-43ca-9f32-094108bdca9e" width=240/>
+</p>
+
+> Please contact us to request the SDK.
 > 
 > Email: contact@kby-ai.com
 > 
