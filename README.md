@@ -14,6 +14,10 @@
   <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
 </a>
 
+### Documentation
+
+https://docs.kby-ai.com/help/product/id-card-sdk
+
 ## Screenshots
 
 <p float="left">
