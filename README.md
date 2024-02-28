@@ -4,6 +4,11 @@
   </a>  
 </p>
 
+#### 📚 Product & Resources - [Here](https://github.com/kby-ai/Product)
+#### 🛟 Help Center - [Here](https://docs.kby-ai.com/help/product/id-card-sdk)
+#### 💼 KYC Verification Demo - [Here](https://github.com/kby-ai/KYC-Verification-Demo-Android)
+#### 🙋‍♀️ Docker Hub - [Here](https://hub.docker.com/u/kbyai)
+
 # IDCardRecognition-Android
 
 ## Try the APK
@@ -13,10 +18,6 @@
 <a href="https://play.google.com/store/apps/details?id=com.kbyai.idcardrecognition" target="_blank">
   <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
 </a>
-
-### Documentation
-
-https://docs.kby-ai.com/help/product/id-card-sdk
 
 ## Screenshots
 
