@@ -19,6 +19,11 @@
   <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
 </a>
 
+## Performance Video
+
+You can visit our YouTube video [here](https://www.youtube.com/watch?v=5InSERvHGvY) to see how well our demo app works.</br></br>
+[![ID Card Recognition Android](https://img.youtube.com/vi/5InSERvHGvY/0.jpg)](https://www.youtube.com/watch?v=5InSERvHGvY)
+
 ## Screenshots
 
 <p float="left">
