@@ -32,6 +32,29 @@ You can visit our YouTube video [here](https://www.youtube.com/watch?v=5InSERvHG
   <img src="https://github.com/kby-ai/IDCardRecognition-Android/assets/125717930/8ed4c26b-8306-43ca-9f32-094108bdca9e" width=240/>
 </p>
 
+### ◾ID Card Recognition SDK Main Functionalities
+
+  | Surpported ID Type      | Functionalities | Release Type |
+  |------------------|------------------|------------------|
+  | ID Card        | Extracting Information(OCR)    | Android(`Kotlin & Java`) |
+  | Passport        | Scanning Barcode    | iOS(`Swift & Objectiv-C`) |
+  | Driver License        | Parsing MRZ    | Flutter(`Dart`) |
+  |         | Auto Capturing    | Web Front-end(`Javascript`) |
+  |         | Scanning QR code        | Server-Windows(`Python`) |
+  |         | Supporting 200+ Countries' ID Documents        | Server-Linux(`Python`) |
+  |         | Supporting 130+ Languages        |  |
+  |         | ID Document Detection        |  |
+
+### ◾ID Card Recognition Product List
+  | No.      | Repository | Release Type |
+  |------------------|------------------|------------------|
+  | ➡️        | <b>[ID Card Recognition - Android](https://github.com/kby-ai/IDCardRecognition-Android)</b>    | <b>Android</b> |
+  | 2        | [ID Card Recognition - iOS](https://github.com/kby-ai/IDCardRecognition-iOS)    | iOS |
+  | 3        | [ID Card Recognition - Flutter](https://github.com/kby-ai/IDCardRecognition-Flutter)    | Flutter |
+  | 4        | [ID Auto Capture - React](https://github.com/kby-ai/ID-document-capture-React)    | Web Front-end |
+  | 5        | [ID Card Recognition - Windows](https://github.com/kby-ai/IDCardRecognition-Windows)        | Server-Windows |
+  | 6        | [ID Card Recognition - Linux](https://github.com/kby-ai/IDCardRecognition-Docker)        | Server-Linux |
+  
 - To request SDK, please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
 🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
