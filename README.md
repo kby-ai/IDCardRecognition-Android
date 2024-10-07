@@ -11,7 +11,11 @@
 #### 🙋‍♀️ Docker Hub - [Here](https://hub.docker.com/u/kbyai)
 
 # IDCardRecognition-Android
+## Overview
 
+This repository demonstrates `ID document recognition`, `ID card recognition`, `ID card scanner and reader` `ID document scanner and reader`, `ID Card OCR`, `passport reader` and `passport recognition` technology developed by `KBY-AI`.
+
+> In this repository, we integrated `KBY-AI`'s `ID document OCR` solution into `Android` native platform.</br>
 ## Try the APK
 
 ### Google Play
@@ -55,8 +59,11 @@ You can visit our YouTube video [here](https://www.youtube.com/watch?v=5InSERvHG
   | 4        | [ID Auto Capture - React](https://github.com/kby-ai/ID-document-capture-React)    | Web Front-end |
   | 5        | [ID Card Recognition - Windows](https://github.com/kby-ai/IDCardRecognition-Windows)        | Server-Windows |
   | 6        | [ID Card Recognition - Linux](https://github.com/kby-ai/IDCardRecognition-Docker)        | Server-Linux |
-  
-- To request SDK, please contact us:</br>
+
+## SDK License
+
+- The code line below shows how to update SDK with the `license key`: https://github.com/kby-ai/FaceRecognition-Android/blob/4b071e04766d6b6a46882c0fc87cd7e2bcdc395d/app/src/main/java/com/kbyai/facerecognition/MainActivity.kt#L33-L43
+- To request `license key`, please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
 🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
 🧙`WhatsApp:` [+19092802609](https://wa.me/+19092802609)</br>
