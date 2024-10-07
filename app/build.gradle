@@ -48,7 +48,8 @@ dependencies {
     implementation 'com.itextpdf:itextpdf:5.5.10'
 
     // PDF library
-    implementation 'io.fotoapparat:fotoapparat:2.7.0'
+    // implementation 'io.fotoapparat:fotoapparat:2.7.0'
+    implementation project(path: ':libfotoapparat')
 
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
