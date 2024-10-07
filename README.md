@@ -62,7 +62,7 @@ You can visit our YouTube video [here](https://www.youtube.com/watch?v=5InSERvHG
 
 ## SDK License
 
-- The code line below shows how to update SDK with the `license key`: https://github.com/kby-ai/FaceRecognition-Android/blob/4b071e04766d6b6a46882c0fc87cd7e2bcdc395d/app/src/main/java/com/kbyai/facerecognition/MainActivity.kt#L33-L43
+- The code line below shows how to update SDK with the `license key`: https://github.com/kby-ai/IDCardRecognition-Android/blob/1db9754a66b0211715ab458a23d3a2dd93f9303d/app/src/main/java/com/kbyai/idcardrecognition/MainActivity.kt#L22-L31
 - To request `license key`, please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
 🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
@@ -70,3 +70,37 @@ You can visit our YouTube video [here](https://www.youtube.com/watch?v=5InSERvHG
 🧙`Skype:` [live:.cid.66e2522354b1049b](https://join.skype.com/invite/OffY2r1NUFev)</br>
 🧙`Facebook:` https://www.facebook.com/KBYAI</br>
 
+## About SDK
+
+### 1. Set up
+1. Download our SDK library file from [here](https://drive.google.com/file/d/1PZiI_RavJRT5d4ChweKfEO2RYMym68CR/view?usp=sharing) and paste it to SDK folder(folder `libidsdk`).</br> Try to build this repo to make sure that SDK works fine by linking real `Android` phone, not `simulator`. Once it works fine, you are ready to integrate our SDK to your project.</br>
+And then copy the SDK(folder `libidsdk`) to the `root` folder in your project.
+
+3. Add SDK to the project in `settings.gradle`.
+```bash
+include ':libidsdk'
+```
+
+3. Add dependency to your `build.gradle`.
+```bash
+implementation project(path: ':libidsdk')
+```
+
+### 2. Initializing the SDK
+
+- Step One
+
+To begin, you need to activate the SDK using the `license key` that you have received.
+```kotlin
+IDSDK.setActivation("...")
+```
+
+If activation is successful, SDK would return `SDK_SUCCESS`. Otherwise, it would return an error message.
+
+- Step Two
+
+Once activation is successful, you can call initialization function supported by our SDK.
+```kotlin
+IDSDK.init(getAssets());
+```
+If initialization is successful, SDK would return `SDK_SUCCESS`. Otherwise, it would return an error message.
