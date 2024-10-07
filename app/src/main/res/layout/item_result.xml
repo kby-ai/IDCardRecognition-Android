@@ -1,0 +1,109 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/txt_key"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:layout_width="wrap_content"
+        android:text="documentNumber"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:textSize="12dp"
+        android:textColor="@color/md_theme_dark_outline"
+        />
+
+    <TextView
+        android:id="@+id/txt_value1"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginRight="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="aaaaaaaa"
+        android:textSize="16dp"
+        android:layout_toLeftOf="@+id/txt_field1"
+        android:layout_below="@+id/txt_key"
+        android:gravity="center_vertical" />
+
+    <TextView
+        android:id="@+id/txt_field1"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_key"
+        android:layout_alignParentEnd="true"
+        android:text="OCR"
+        android:textSize="12dp"
+        android:textColor="@color/md_theme_dark_error"
+        >
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/txt_value2"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="3dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/txt_field2"
+        android:layout_below="@+id/txt_value1"
+        android:textSize="16dp"
+        android:gravity="center_vertical"
+        />
+
+    <TextView
+        android:id="@+id/txt_field2"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_value1"
+        android:layout_alignParentEnd="true"
+        android:text="MRZ"
+        android:textSize="12dp"
+        android:textColor="@color/md_theme_dark_error"
+        >
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/txt_value3"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="3dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/txt_field3"
+        android:layout_below="@+id/txt_value2"
+        android:textSize="16dp"
+        android:gravity="center_vertical"
+        />
+
+    <TextView
+        android:id="@+id/txt_field3"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_value2"
+        android:layout_alignParentEnd="true"
+        android:text="MRZ"
+        android:textSize="12dp"
+        android:textColor="@color/md_theme_dark_error"
+        >
+
+    </TextView>
+</RelativeLayout>
