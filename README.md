@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/4c6cb822-346b-451d-8804-147e1ded4ea2)<p align="center">
   <a href="https://play.google.com/store/apps/dev?id=7086930298279250852" target="_blank">
     <img alt="" src="https://github-production-user-asset-6210df.s3.amazonaws.com/125717930/246971879-8ce757c3-90dc-438d-807f-3f3d29ddc064.png" width=500/>
   </a>  
@@ -25,9 +25,9 @@ This repository demonstrates `ID document recognition`, `ID card recognition`, `
 </a>
 
 ## Performance Video
-
-You can visit our YouTube video [here](https://www.youtube.com/watch?v=5InSERvHGvY) to see how well our demo app works.</br></br>
-[![ID Card Recognition Android](https://img.youtube.com/vi/5InSERvHGvY/0.jpg)](https://www.youtube.com/watch?v=5InSERvHGvY)
+https://www.youtube.com/watch?v=Pn5Coq7QZ8s
+You can visit our YouTube video [here](https://www.youtube.com/watch?v=Pn5Coq7QZ8s) to see how well our demo app works.</br></br>
+[![ID Card Recognition Android](https://www.youtube.com/watch?v=Pn5Coq7QZ8s/0.jpg)](https://www.youtube.com/watch?v=Pn5Coq7QZ8s)
 
 ## Screenshots
 
