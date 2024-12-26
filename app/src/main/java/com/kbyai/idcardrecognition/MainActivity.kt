@@ -22,11 +22,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var ret = IDSDK.setActivation(
-            "ItbU8EMHg1dFLQgkk7h4IP+Zu/CkrfVWGEEmOY5IjiAmxvcEU1fqJ3C76+CoZ2zit816tchptZDn\n" +
-                    "61TCAtHBKVV6Fub3tmoyHl8kJz4pOMX4OQ2qUEhyvI2WzRN8/FUZ6ZAdUGw/4I3SJfTxdxD55MJ3\n" +
-                    "/rOt5C8OLJvR8sBTx+ltt9J2hGMO+T5Jf1ndrj00djN6/v5PtcQqFJiDQTbVdFyCm6E4w66Mgx63\n" +
-                    "FWtYRgBd1qC3f9FFeFvICppd2BvEsuaw2n/8/6qDj6X1kTdYgYRtRD5VKPTnmAV04sV90EA/3Hm5\n" +
-                    "xLeVxrn4C9SiQJ5t9T1g0EX0pOrY7SPlfLUocg=="
+            "kUWgfFn5kv5ZeJ659tvyW3poZO2xb5llqL/se3g69rVmUJdOuUp8lyAwoeiZe+6e6PeER97sw4zL\n" +
+                    "/rMR0qYVp0nupe6W7TzgQHtjq119BJKVDuxXjbQEyuM29nSEeRVYSwO2htOUEF/V1IH9BIfo33Vc\n" +
+                    "sAg9ohvVuB5DT9BKHXQKevmEmE2AXba2t6ponKAUQ6VwWIX+w1NON8A+6hCoSIDlzVkacbsAp6Kg\n" +
+                    "B0Abfqzbqhz8GG5WNPZlonx7XRNwKlYU+sPo/X6noy1gr7iAAhC+KpWetD2KOWsunyAswkZ5cg2Y\n" +
+                    "WK5/HQXG+h2oGSkjrZj9zH7kGbzzDbn+2qT2jA=="
         )
         if(ret  == IDSDK.SDK_SUCCESS) {
             ret = IDSDK.init(this)
