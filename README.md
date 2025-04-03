@@ -79,7 +79,7 @@ You can visit our YouTube video [here](https://www.youtube.com/watch?v=s3G3MzrdD
 ## About SDK
 
 ### 1. Set up
-1. Download our SDK library file from [here](https://drive.google.com/file/d/1W3qC4qIVjbXpNuuuKtS7AqAYw9W2gc4s/view?usp=sharing) and paste it to SDK folder(folder `libidsdk`).</br> Try to build this repo to make sure that SDK works fine by linking real `Android` phone, not `simulator`. Once it works fine, you are ready to integrate our SDK to your project.</br>
+1. Download our SDK library file(`idsdk.aar`) from [here](https://drive.google.com/file/d/1yn7Qo_CKP0k1VOeBrR0GoUdjCsm-n74N/view?usp=sharing) and paste it to SDK folder(folder `libidsdk`).</br> Try to build this repo to make sure that SDK works fine by linking real `Android` phone, not `simulator`. Once it works fine, you are ready to integrate our SDK to your project.</br>
 And then copy the SDK(folder `libidsdk`) to the `root` folder in your project.
 
 3. Add SDK to the project in `settings.gradle`.
