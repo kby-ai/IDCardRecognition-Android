@@ -76,6 +76,12 @@ You can visit our YouTube video [here](https://www.youtube.com/watch?v=s3G3MzrdD
 🧙`Discord:` [KBY-AI](https://discord.gg/CgHtWQ3k9T)</br>
 🧙`Teams:` [KBY-AI](https://teams.live.com/l/invite/FBAYGB1-IlXkuQM3AY)</br>
 
+## How To Run
+### 1. Placing Library File
+   Download the `SDK library` file for `Android`(`idsdk.aar`) from [here](https://drive.google.com/file/d/1hys99a7QG7-px_m8DGa9RKqR7wr6E8bS/view?usp=sharing) and put it on the suitable `SDK` folder(folder `libidsdk`).</br> 
+### 3. Running the App
+  Try to build this repo on `Android Studio` by linking real `Android` phone, not `simulator`. Once it works fine, you are ready to integrate our `SDK` to your project.</br>
+
 ## About SDK
 
 ### 1. Set up
