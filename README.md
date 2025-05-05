@@ -10,11 +10,11 @@
 ![FRVT Sheet](https://github.com/user-attachments/assets/16b4cee2-3a91-453f-94e0-9e81262393d7)
 
 #### 🆔 ID Document Liveness Detection - Linux - [Here](https://web.kby-ai.com)  <span><img src="https://github.com/kby-ai/.github/assets/125717930/bcf351c5-8b7a-496e-a8f9-c236eb8ad59e" alt="badge" width="36" height="20"></span>
-#### 🤗 Hugging Face - [Here](https://huggingface.co/kby-ai)
+#### 🤗 Hugging Face - [Here](https://huggingface.co/spaces/kby-ai/IDCardRecognition)
 #### 📚 Product & Resources - [Here](https://github.com/kby-ai/Product)
 #### 🛟 Help Center - [Here](https://docs.kby-ai.com/help/product/id-card-sdk)
 #### 💼 KYC Verification Demo - [Here](https://github.com/kby-ai/KYC-Verification-Demo-Android)
-#### 🙋‍♀️ Docker Hub - [Here](https://hub.docker.com/u/kbyai)
+#### 🙋‍♀️ Docker Hub - [Here](https://hub.docker.com/r/kbyai/idcard-recognition)
 
 # IDCardRecognition-Android
 ## Overview
