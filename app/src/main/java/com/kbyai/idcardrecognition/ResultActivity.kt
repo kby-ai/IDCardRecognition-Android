@@ -85,7 +85,7 @@ class ResultActivity : AppCompatActivity() {
             while(keys.hasNext()) {
                 var key = keys.next() as String
                 if(key == getString(R.string.full_name)) {
-                    val value = jsonResult.get(key).toString()
+                    val value = jsonResult.get("Given Names").toString() + " " + jsonResult.get(key).toString()
                     nameTxt.text = value
                 }
 
