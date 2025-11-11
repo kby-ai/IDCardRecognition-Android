@@ -112,7 +112,7 @@ class CameraActivityKt : AppCompatActivity() {
                 val x2 = positionObj["x2"] as Int
                 val y2 = positionObj["y2"] as Int
                 positionRect = Rect(x1, y1, x2, y2)
-                if (quality > 86 && (documenName != "Unknown" || hasMrz == true)) {
+                if (quality > 80 && (documenName != "Unknown" || hasMrz == true)) {
                     recognized = true
 
                     runOnUiThread {
