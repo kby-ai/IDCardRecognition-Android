@@ -2,7 +2,7 @@
     <string name="app_name">IDCardRecognition</string>
 
 
-    <string name="full_name">Full Name</string>
+    <string name="full_name">Surname</string>
     <string name="images">Images</string>
     <string name="portrait">Portrait</string>
     <string name="document">Document</string>
